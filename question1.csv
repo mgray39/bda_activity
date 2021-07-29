@@ -1,0 +1,746 @@
+year_month,airline,passengers_in,passengers_out
+2019-01-01,Air Caledonie International,8291,7336
+2019-01-01,Air Canada,20122,16999
+2019-01-01,Air China,28053,24187
+2019-01-01,Air India,8510,7573
+2019-01-01,Air Mauritius,3535,3098
+2019-01-01,Air New Zealand,144286,133584
+2019-01-01,Air Niugini,6776,7716
+2019-01-01,Air Vanuatu,6436,5100
+2019-01-01,AirAsia X,65337,54196
+2019-01-01,All Nippon Airways,6548,6222
+2019-01-01,American Airlines,8648,7160
+2019-01-01,Asiana Airlines,12432,14579
+2019-01-01,Batik Air Indonesia,6329,3515
+2019-01-01,Beijing Capital Airlines,5028,4560
+2019-01-01,British Airways,8870,7576
+2019-01-01,Cathay Pacific Airways,95907,75295
+2019-01-01,Cebu Pacific Air,16158,13545
+2019-01-01,China Airlines,32838,25724
+2019-01-01,China Eastern Airlines,50330,41945
+2019-01-01,China Southern Airlines,84428,73956
+2019-01-01,Delta Air Lines,8428,7372
+2019-01-01,Donghai Airlines,720,421
+2019-01-01,Emirates,173150,135101
+2019-01-01,Etihad Airways,56934,42852
+2019-01-01,Eva Air,6514,5596
+2019-01-01,Federal Express Corporation,0,0
+2019-01-01,Fiji Airways,26844,22497
+2019-01-01,Garuda Indonesia,36343,27185
+2019-01-01,Hainan Airlines,13380,10477
+2019-01-01,Hawaiian Airlines,11585,9975
+2019-01-01,Indonesia AirAsia,15508,12904
+2019-01-01,Japan Airlines,10390,9835
+2019-01-01,Jetstar,173290,161665
+2019-01-01,Jetstar Asia,3639,3309
+2019-01-01,Korean Air,19782,15510
+2019-01-01,LATAM Airlines,10973,10164
+2019-01-01,Malaysia Airlines,52255,44582
+2019-01-01,Malindo Air,17870,11988
+2019-01-01,Nauru Airlines,664,771
+2019-01-01,Pacific Air Express,0,0
+2019-01-01,Philippine Airlines,17290,16883
+2019-01-01,Polar Air Cargo,0,0
+2019-01-01,Qantas Airways,361673,328363
+2019-01-01,Qatar Airways,63705,52813
+2019-01-01,Royal Brunei Airlines,6696,6373
+2019-01-01,Samoa Airways,2257,1334
+2019-01-01,Scoot Tigerair,36117,29692
+2019-01-01,Sichuan Airlines,5554,4557
+2019-01-01,Silk Air,7153,5810
+2019-01-01,Singapore Airlines,168246,145467
+2019-01-01,Solomon Airlines,1690,1411
+2019-01-01,South African Airways,6901,6297
+2019-01-01,SriLankan Airlines,8550,7431
+2019-01-01,Tasman Cargo Airlines,0,0
+2019-01-01,Thai Airways International,37513,35968
+2019-01-01,Tianjin Airlines,5731,3680
+2019-01-01,United Airlines,28760,25435
+2019-01-01,United Parcel Service,0,0
+2019-01-01,Vietnam Airlines,18338,18351
+2019-01-01,Virgin Australia,143277,119826
+2019-01-01,Xiamen Airlines,10860,9869
+2019-02-01,Air Caledonie International,3889,6148
+2019-02-01,Air Canada,18173,14098
+2019-02-01,Air China,27454,22903
+2019-02-01,Air India,7863,6094
+2019-02-01,Air Mauritius,2010,1417
+2019-02-01,Air New Zealand,119061,118649
+2019-02-01,Air Niugini,5603,5382
+2019-02-01,Air Vanuatu,2899,3119
+2019-02-01,AirAsia X,50781,33332
+2019-02-01,All Nippon Airways,6101,5163
+2019-02-01,American Airlines,7466,6507
+2019-02-01,Asiana Airlines,10623,11663
+2019-02-01,Batik Air Indonesia,1623,867
+2019-02-01,Beijing Capital Airlines,4734,4361
+2019-02-01,British Airways,7622,7101
+2019-02-01,Cathay Pacific Airways,84913,71819
+2019-02-01,Cebu Pacific Air,12811,8819
+2019-02-01,China Airlines,20258,17123
+2019-02-01,China Eastern Airlines,47541,40275
+2019-02-01,China Southern Airlines,78942,68859
+2019-02-01,Delta Air Lines,7590,6424
+2019-02-01,Donghai Airlines,630,489
+2019-02-01,Emirates,125534,88192
+2019-02-01,Etihad Airways,40683,30152
+2019-02-01,Eva Air,4605,4181
+2019-02-01,Federal Express Corporation,0,0
+2019-02-01,Fiji Airways,14682,14383
+2019-02-01,Garuda Indonesia,23195,16279
+2019-02-01,Hainan Airlines,11601,9798
+2019-02-01,Hawaiian Airlines,7893,6709
+2019-02-01,Indonesia AirAsia,11632,9904
+2019-02-01,Japan Airlines,9699,8962
+2019-02-01,Jetstar,143772,132168
+2019-02-01,Jetstar Asia,3657,2794
+2019-02-01,Korean Air,17162,14635
+2019-02-01,LATAM Airlines,9915,9504
+2019-02-01,Malaysia Airlines,45358,35630
+2019-02-01,Malindo Air,13009,8087
+2019-02-01,Nauru Airlines,812,461
+2019-02-01,Pacific Air Express,0,0
+2019-02-01,Philippine Airlines,12429,9939
+2019-02-01,Polar Air Cargo,0,0
+2019-02-01,Qantas Airways,289261,260729
+2019-02-01,Qatar Airways,45766,39166
+2019-02-01,Royal Brunei Airlines,5588,4645
+2019-02-01,Samoa Airways,1098,776
+2019-02-01,Scoot Tigerair,30897,22651
+2019-02-01,Sichuan Airlines,5449,4220
+2019-02-01,Silk Air,4632,3762
+2019-02-01,Singapore Airlines,145765,117067
+2019-02-01,Solomon Airlines,1142,1141
+2019-02-01,South African Airways,5007,4018
+2019-02-01,SriLankan Airlines,7476,5457
+2019-02-01,Tasman Cargo Airlines,0,0
+2019-02-01,Thai Airways International,34170,30799
+2019-02-01,Tianjin Airlines,5212,4070
+2019-02-01,United Airlines,22724,19307
+2019-02-01,United Parcel Service,0,0
+2019-02-01,Vietnam Airlines,17831,14487
+2019-02-01,Virgin Australia,101154,96358
+2019-02-01,Xiamen Airlines,10128,8240
+2019-03-01,Air Caledonie International,3957,4409
+2019-03-01,Air Canada,16966,18414
+2019-03-01,Air China,20223,18759
+2019-03-01,Air India,7270,6841
+2019-03-01,Air Mauritius,1641,1873
+2019-03-01,Air New Zealand,135759,126866
+2019-03-01,Air Niugini,6407,6053
+2019-03-01,Air Vanuatu,4079,3970
+2019-03-01,AirAsia X,40187,34638
+2019-03-01,All Nippon Airways,5742,6404
+2019-03-01,American Airlines,7717,7996
+2019-03-01,Asiana Airlines,11450,13101
+2019-03-01,Batik Air Indonesia,1617,1551
+2019-03-01,Beijing Capital Airlines,4103,3913
+2019-03-01,British Airways,6121,7921
+2019-03-01,Cathay Pacific Airways,73126,75914
+2019-03-01,Cebu Pacific Air,10867,9383
+2019-03-01,China Airlines,17489,20150
+2019-03-01,China Eastern Airlines,31185,29415
+2019-03-01,China Southern Airlines,53269,49943
+2019-03-01,Delta Air Lines,8289,8246
+2019-03-01,Donghai Airlines,332,283
+2019-03-01,Emirates,101540,120468
+2019-03-01,Etihad Airways,27312,36637
+2019-03-01,Eva Air,4329,4600
+2019-03-01,Federal Express Corporation,0,0
+2019-03-01,Fiji Airways,16997,18031
+2019-03-01,Garuda Indonesia,18627,19480
+2019-03-01,Hainan Airlines,9704,8229
+2019-03-01,Hawaiian Airlines,7233,8891
+2019-03-01,Indonesia AirAsia,12554,12401
+2019-03-01,Japan Airlines,8517,9728
+2019-03-01,Jetstar,148059,146319
+2019-03-01,Jetstar Asia,3364,2960
+2019-03-01,Korean Air,12798,15575
+2019-03-01,LATAM Airlines,10294,11213
+2019-03-01,Malaysia Airlines,42014,34760
+2019-03-01,Malindo Air,10620,10689
+2019-03-01,Nauru Airlines,832,663
+2019-03-01,Pacific Air Express,0,0
+2019-03-01,Philippine Airlines,11904,10922
+2019-03-01,Polar Air Cargo,0,0
+2019-03-01,Qantas Airways,300687,298800
+2019-03-01,Qatar Airways,31556,54388
+2019-03-01,Royal Brunei Airlines,3433,4515
+2019-03-01,Samoa Airways,1145,937
+2019-03-01,Scoot Tigerair,27068,24459
+2019-03-01,Sichuan Airlines,4392,3990
+2019-03-01,Silk Air,3765,4090
+2019-03-01,Singapore Airlines,136824,133947
+2019-03-01,Solomon Airlines,1628,1409
+2019-03-01,South African Airways,5345,5754
+2019-03-01,SriLankan Airlines,7989,6227
+2019-03-01,Tasman Cargo Airlines,0,0
+2019-03-01,Thai Airways International,29489,31079
+2019-03-01,Tianjin Airlines,2909,2074
+2019-03-01,United Airlines,21740,25574
+2019-03-01,United Parcel Service,0,0
+2019-03-01,Vietnam Airlines,17228,15146
+2019-03-01,Virgin Australia,111055,108165
+2019-03-01,Xiamen Airlines,8815,7548
+2019-04-01,Air Caledonie International,4965,4911
+2019-04-01,Air Canada,13149,18147
+2019-04-01,Air China,13555,14829
+2019-04-01,Air India,7901,7867
+2019-04-01,Air Mauritius,1755,2043
+2019-04-01,Air New Zealand,124791,116423
+2019-04-01,Air Niugini,6540,6949
+2019-04-01,Air Vanuatu,5181,5102
+2019-04-01,AirAsia X,44710,46104
+2019-04-01,All Nippon Airways,5420,5214
+2019-04-01,American Airlines,7685,8075
+2019-04-01,Asiana Airlines,7089,7127
+2019-04-01,Batik Air Indonesia,2796,2880
+2019-04-01,Beijing Capital Airlines,3172,3203
+2019-04-01,British Airways,5856,8331
+2019-04-01,Cathay Pacific Airways,83936,87968
+2019-04-01,Cebu Pacific Air,13156,11624
+2019-04-01,China Airlines,21928,24056
+2019-04-01,China Eastern Airlines,31263,33201
+2019-04-01,China Southern Airlines,54390,55228
+2019-04-01,Delta Air Lines,7612,8135
+2019-04-01,Donghai Airlines,282,209
+2019-04-01,Emirates,101614,127882
+2019-04-01,Etihad Airways,38250,48128
+2019-04-01,Eva Air,4097,4317
+2019-04-01,Federal Express Corporation,0,0
+2019-04-01,Fiji Airways,20873,23540
+2019-04-01,Garuda Indonesia,22656,26031
+2019-04-01,Hainan Airlines,10927,12254
+2019-04-01,Hawaiian Airlines,9303,10179
+2019-04-01,Indonesia AirAsia,13873,14223
+2019-04-01,Japan Airlines,7751,8241
+2019-04-01,Jetstar,149934,146970
+2019-04-01,Jetstar Asia,3735,3536
+2019-04-01,Korean Air,10198,11530
+2019-04-01,LATAM Airlines,9733,9384
+2019-04-01,Malaysia Airlines,45820,45312
+2019-04-01,Malindo Air,13993,15385
+2019-04-01,Nauru Airlines,715,799
+2019-04-01,Pacific Air Express,0,0
+2019-04-01,Philippine Airlines,14960,16059
+2019-04-01,Polar Air Cargo,0,0
+2019-04-01,Qantas Airways,306564,319292
+2019-04-01,Qatar Airways,44220,61871
+2019-04-01,Royal Brunei Airlines,4823,5750
+2019-04-01,Samoa Airways,1173,1170
+2019-04-01,Scoot Tigerair,25097,26513
+2019-04-01,Sichuan Airlines,5214,5694
+2019-04-01,Silk Air,4881,5581
+2019-04-01,Singapore Airlines,144605,150160
+2019-04-01,Solomon Airlines,1512,1302
+2019-04-01,South African Airways,6403,6797
+2019-04-01,SriLankan Airlines,7719,7043
+2019-04-01,Tasman Cargo Airlines,0,0
+2019-04-01,Thai Airways International,32751,34645
+2019-04-01,Tianjin Airlines,1419,1351
+2019-04-01,United Airlines,19035,21344
+2019-04-01,United Parcel Service,0,0
+2019-04-01,Vietnam Airlines,17103,17731
+2019-04-01,Virgin Australia,123908,123984
+2019-04-01,Xiamen Airlines,9689,9692
+2019-05-01,Air Caledonie International,3996,3786
+2019-05-01,Air Canada,13557,18280
+2019-05-01,Air China,11015,14577
+2019-05-01,Air India,7963,6119
+2019-05-01,Air Mauritius,2040,2088
+2019-05-01,Air New Zealand,107654,99812
+2019-05-01,Air Niugini,5596,5339
+2019-05-01,Air Vanuatu,4442,3954
+2019-05-01,AirAsia X,46475,38083
+2019-05-01,All Nippon Airways,5089,5580
+2019-05-01,American Airlines,8482,7776
+2019-05-01,Asiana Airlines,7121,7227
+2019-05-01,Batik Air Indonesia,2971,2755
+2019-05-01,Beijing Capital Airlines,2899,2712
+2019-05-01,British Airways,5861,8058
+2019-05-01,Cathay Pacific Airways,71332,78268
+2019-05-01,Cebu Pacific Air,12165,10027
+2019-05-01,China Airlines,16192,17755
+2019-05-01,China Eastern Airlines,32392,33800
+2019-05-01,China Southern Airlines,45571,45594
+2019-05-01,Delta Air Lines,8471,7377
+2019-05-01,Donghai Airlines,215,179
+2019-05-01,Emirates,94419,115627
+2019-05-01,Etihad Airways,31958,51096
+2019-05-01,Eva Air,4676,4312
+2019-05-01,Federal Express Corporation,0,0
+2019-05-01,Fiji Airways,20347,20470
+2019-05-01,Garuda Indonesia,20888,19590
+2019-05-01,Hainan Airlines,9082,9350
+2019-05-01,Hawaiian Airlines,10546,10385
+2019-05-01,Indonesia AirAsia,14199,13631
+2019-05-01,Japan Airlines,8473,10236
+2019-05-01,Jetstar,138962,138661
+2019-05-01,Jetstar Asia,3944,3585
+2019-05-01,Korean Air,10774,11199
+2019-05-01,LATAM Airlines,8948,8352
+2019-05-01,Malaysia Airlines,45669,38056
+2019-05-01,Malindo Air,14567,13189
+2019-05-01,Nauru Airlines,764,552
+2019-05-01,Pacific Air Express,0,0
+2019-05-01,Philippine Airlines,14407,11761
+2019-05-01,Polar Air Cargo,0,0
+2019-05-01,Qantas Airways,296092,294663
+2019-05-01,Qatar Airways,40025,64307
+2019-05-01,Royal Brunei Airlines,3587,4583
+2019-05-01,Samoa Airways,1423,1268
+2019-05-01,Scoot Tigerair,20786,19017
+2019-05-01,Sichuan Airlines,3727,4551
+2019-05-01,Silk Air,4794,5550
+2019-05-01,Singapore Airlines,138414,138862
+2019-05-01,Solomon Airlines,1618,1508
+2019-05-01,South African Airways,5406,5655
+2019-05-01,SriLankan Airlines,7543,5963
+2019-05-01,Tasman Cargo Airlines,0,0
+2019-05-01,Thai Airways International,29246,33209
+2019-05-01,Tianjin Airlines,1352,1135
+2019-05-01,United Airlines,20030,19763
+2019-05-01,United Parcel Service,0,0
+2019-05-01,Vietnam Airlines,15309,14241
+2019-05-01,Virgin Australia,108497,106356
+2019-05-01,Xiamen Airlines,7969,8160
+2019-06-01,Air Caledonie International,4001,5143
+2019-06-01,Air Canada,16202,18943
+2019-06-01,Air China,10001,14746
+2019-06-01,Air India,8144,7827
+2019-06-01,Air Mauritius,1680,2100
+2019-06-01,Air New Zealand,98665,102327
+2019-06-01,Air Niugini,5862,6268
+2019-06-01,Air Vanuatu,4932,6009
+2019-06-01,AirAsia X,34656,45329
+2019-06-01,All Nippon Airways,4065,5090
+2019-06-01,American Airlines,8156,7865
+2019-06-01,Asiana Airlines,8204,8209
+2019-06-01,Batik Air Indonesia,3357,4140
+2019-06-01,Beijing Capital Airlines,3211,3685
+2019-06-01,British Airways,5780,6754
+2019-06-01,Cathay Pacific Airways,69626,83729
+2019-06-01,Cebu Pacific Air,10837,12105
+2019-06-01,China Airlines,20315,24206
+2019-06-01,China Eastern Airlines,29729,33752
+2019-06-01,China Southern Airlines,41960,45516
+2019-06-01,Delta Air Lines,8200,7692
+2019-06-01,Donghai Airlines,240,293
+2019-06-01,Emirates,105525,133714
+2019-06-01,Etihad Airways,39179,53202
+2019-06-01,Eva Air,2840,3191
+2019-06-01,Federal Express Corporation,0,0
+2019-06-01,Fiji Airways,19771,23622
+2019-06-01,Garuda Indonesia,23945,32531
+2019-06-01,Hainan Airlines,7581,10579
+2019-06-01,Hawaiian Airlines,7637,9541
+2019-06-01,Indonesia AirAsia,13677,14528
+2019-06-01,Japan Airlines,8696,10105
+2019-06-01,Jetstar,138158,144458
+2019-06-01,Jetstar Asia,4033,4392
+2019-06-01,Korean Air,11050,11534
+2019-06-01,LATAM Airlines,8126,8632
+2019-06-01,Malaysia Airlines,39370,49268
+2019-06-01,Malindo Air,13708,16574
+2019-06-01,Nauru Airlines,706,847
+2019-06-01,Pacific Air Express,0,0
+2019-06-01,Philippine Airlines,11523,12768
+2019-06-01,Polar Air Cargo,0,0
+2019-06-01,Qantas Airways,281172,302677
+2019-06-01,Qatar Airways,45850,63993
+2019-06-01,Royal Brunei Airlines,3503,6871
+2019-06-01,Samoa Airways,1336,1671
+2019-06-01,Scoot Tigerair,22114,27368
+2019-06-01,Sichuan Airlines,3408,5473
+2019-06-01,Silk Air,5560,7107
+2019-06-01,Singapore Airlines,138426,160142
+2019-06-01,Solomon Airlines,1621,1609
+2019-06-01,South African Airways,4951,5709
+2019-06-01,SriLankan Airlines,7125,7438
+2019-06-01,Tasman Cargo Airlines,0,0
+2019-06-01,Thai AirAsia X,392,686
+2019-06-01,Thai Airways International,28034,37011
+2019-06-01,Tianjin Airlines,1118,1408
+2019-06-01,United Airlines,19449,20575
+2019-06-01,United Parcel Service,0,0
+2019-06-01,Vietnam Airlines,15096,17822
+2019-06-01,Virgin Australia,104598,115004
+2019-06-01,Xiamen Airlines,8653,9072
+2019-07-01,Air Caledonie International,3969,4200
+2019-07-01,Air Canada,20502,19483
+2019-07-01,Air China,11095,12879
+2019-07-01,Air India,8395,6145
+2019-07-01,Air Mauritius,2458,2213
+2019-07-01,Air New Zealand,120321,118084
+2019-07-01,Air Niugini,6832,6941
+2019-07-01,Air Vanuatu,8231,7787
+2019-07-01,AirAsia X,66794,49450
+2019-07-01,All Nippon Airways,6090,4860
+2019-07-01,American Airlines,8449,7964
+2019-07-01,Asiana Airlines,8837,7238
+2019-07-01,Batik Air Indonesia,5041,4489
+2019-07-01,Beijing Capital Airlines,5153,4297
+2019-07-01,British Airways,5890,6693
+2019-07-01,Cathay Pacific Airways,80868,72970
+2019-07-01,Cebu Pacific Air,13921,9935
+2019-07-01,China Airlines,27966,24868
+2019-07-01,China Eastern Airlines,36012,29967
+2019-07-01,China Southern Airlines,46644,42786
+2019-07-01,Delta Air Lines,8549,7757
+2019-07-01,Donghai Airlines,548,251
+2019-07-01,Emirates,145940,111550
+2019-07-01,Etihad Airways,55043,44185
+2019-07-01,Eva Air,2337,1137
+2019-07-01,Federal Express Corporation,0,0
+2019-07-01,Fiji Airways,24859,23038
+2019-07-01,Garuda Indonesia,32757,31372
+2019-07-01,Hainan Airlines,13704,9286
+2019-07-01,Hawaiian Airlines,10307,9761
+2019-07-01,Indonesia AirAsia,15344,14787
+2019-07-01,Japan Airlines,10831,8475
+2019-07-01,Jetstar,169580,159634
+2019-07-01,Jetstar Asia,4416,3236
+2019-07-01,Korean Air,12117,9860
+2019-07-01,LATAM Airlines,10609,9908
+2019-07-01,Malaysia Airlines,59214,46996
+2019-07-01,Malindo Air,18539,17202
+2019-07-01,Nauru Airlines,914,630
+2019-07-01,Pacific Air Express,0,0
+2019-07-01,Philippine Airlines,15168,12367
+2019-07-01,Polar Air Cargo,0,0
+2019-07-01,Qantas Airways,339264,308595
+2019-07-01,Qatar Airways,65387,57800
+2019-07-01,Royal Brunei Airlines,7669,6250
+2019-07-01,Samoa Airways,1617,1677
+2019-07-01,Scoot Tigerair,32257,28619
+2019-07-01,Sichuan Airlines,6123,4239
+2019-07-01,Silk Air,8892,7782
+2019-07-01,Singapore Airlines,170605,146399
+2019-07-01,Solomon Airlines,1995,1677
+2019-07-01,South African Airways,6692,5824
+2019-07-01,SriLankan Airlines,8283,6476
+2019-07-01,Tasman Cargo Airlines,0,0
+2019-07-01,Thai AirAsia X,5233,3357
+2019-07-01,Thai Airways International,39001,37145
+2019-07-01,Tianjin Airlines,1926,1217
+2019-07-01,United Airlines,21442,20299
+2019-07-01,United Parcel Service,0,0
+2019-07-01,Vietnam Airlines,20295,18835
+2019-07-01,Virgin Australia,134444,121821
+2019-07-01,Xiamen Airlines,9744,7816
+2019-08-01,Air Caledonie International,5575,5017
+2019-08-01,Air Canada,18096,19464
+2019-08-01,Air China,11676,13914
+2019-08-01,Air India,8453,7521
+2019-08-01,Air Mauritius,1751,1808
+2019-08-01,Air New Zealand,113093,114887
+2019-08-01,Air Niugini,6107,6078
+2019-08-01,Air Vanuatu,6484,5838
+2019-08-01,AirAsia X,44274,38451
+2019-08-01,All Nippon Airways,5768,6136
+2019-08-01,American Airlines,7286,7762
+2019-08-01,Asiana Airlines,7976,8750
+2019-08-01,Batik Air Indonesia,4490,4161
+2019-08-01,Beijing Capital Airlines,4986,4729
+2019-08-01,British Airways,6072,6559
+2019-08-01,Cathay Pacific Airways,74781,82218
+2019-08-01,Cebu Pacific Air,11001,9019
+2019-08-01,China Airlines,23242,25334
+2019-08-01,China Eastern Airlines,33170,35479
+2019-08-01,China Southern Airlines,46541,46636
+2019-08-01,Delta Air Lines,8028,7884
+2019-08-01,Donghai Airlines,296,323
+2019-08-01,Emirates,116802,128224
+2019-08-01,Etihad Airways,48200,53814
+2019-08-01,Eva Air,5771,5903
+2019-08-01,Federal Express Corporation,0,0
+2019-08-01,Fiji Airways,19380,19425
+2019-08-01,Garuda Indonesia,25759,26672
+2019-08-01,Hainan Airlines,10875,13126
+2019-08-01,Hawaiian Airlines,7735,9730
+2019-08-01,Indonesia AirAsia,14684,13965
+2019-08-01,Japan Airlines,10195,10871
+2019-08-01,Jetstar,160071,159405
+2019-08-01,Jetstar Asia,3530,3161
+2019-08-01,Korean Air,11095,11998
+2019-08-01,LATAM Airlines,9569,9251
+2019-08-01,Malaysia Airlines,54222,48991
+2019-08-01,Malindo Air,19841,18993
+2019-08-01,Nauru Airlines,729,730
+2019-08-01,Pacific Air Express,0,0
+2019-08-01,Philippine Airlines,14040,12683
+2019-08-01,Polar Air Cargo,0,0
+2019-08-01,Qantas Airways,305397,310526
+2019-08-01,Qatar Airways,58704,64663
+2019-08-01,Royal Brunei Airlines,6667,7663
+2019-08-01,Samoa Airways,1806,1742
+2019-08-01,Scoot Tigerair,26502,25240
+2019-08-01,Sichuan Airlines,4536,4647
+2019-08-01,Silk Air,7472,9126
+2019-08-01,Singapore Airlines,151355,148586
+2019-08-01,Solomon Airlines,1828,1475
+2019-08-01,South African Airways,5829,5661
+2019-08-01,SriLankan Airlines,8127,6899
+2019-08-01,Tasman Cargo Airlines,0,0
+2019-08-01,Thai AirAsia X,2952,2378
+2019-08-01,Thai Airways International,36781,36273
+2019-08-01,Tianjin Airlines,1503,1369
+2019-08-01,United Airlines,18973,20698
+2019-08-01,United Parcel Service,0,0
+2019-08-01,Vietnam Airlines,15797,14496
+2019-08-01,Virgin Australia,120965,126402
+2019-08-01,Xiamen Airlines,10019,9099
+2019-09-01,Air Caledonie International,4377,4832
+2019-09-01,Air Canada,18211,15858
+2019-09-01,Air Chathams,90,87
+2019-09-01,Air China,9657,13977
+2019-09-01,Air India,7630,7475
+2019-09-01,Air Mauritius,2314,2157
+2019-09-01,Air New Zealand,111691,115780
+2019-09-01,Air Niugini,6453,7203
+2019-09-01,Air Vanuatu,6496,7031
+2019-09-01,AirAsia X,39068,42165
+2019-09-01,All Nippon Airways,8381,11251
+2019-09-01,American Airlines,6800,7060
+2019-09-01,Asiana Airlines,7379,7439
+2019-09-01,Batik Air Indonesia,4209,4327
+2019-09-01,Beijing Capital Airlines,4325,4848
+2019-09-01,British Airways,7153,6954
+2019-09-01,Cathay Pacific Airways,76582,78001
+2019-09-01,Cebu Pacific Air,9941,9531
+2019-09-01,China Airlines,20752,25200
+2019-09-01,China Eastern Airlines,30961,34001
+2019-09-01,China Southern Airlines,42619,43593
+2019-09-01,Delta Air Lines,8002,7733
+2019-09-01,Donghai Airlines,307,230
+2019-09-01,Emirates,128559,123760
+2019-09-01,Etihad Airways,51182,48843
+2019-09-01,Eva Air,4448,4620
+2019-09-01,Federal Express Corporation,0,0
+2019-09-01,Fiji Airways,17838,20385
+2019-09-01,Garuda Indonesia,26064,27775
+2019-09-01,Hainan Airlines,7994,9760
+2019-09-01,Hawaiian Airlines,9534,11333
+2019-09-01,Indonesia AirAsia,14296,14209
+2019-09-01,Japan Airlines,8810,11070
+2019-09-01,Jetstar,158667,161114
+2019-09-01,Jetstar Asia,3186,3047
+2019-09-01,Korean Air,10626,10819
+2019-09-01,LATAM Airlines,8633,8782
+2019-09-01,Malaysia Airlines,48006,48091
+2019-09-01,Malindo Air,20075,20436
+2019-09-01,Nauru Airlines,905,740
+2019-09-01,Pacific Air Express,0,0
+2019-09-01,Philippine Airlines,12102,14166
+2019-09-01,Polar Air Cargo,0,0
+2019-09-01,Qantas Airways,290880,306017
+2019-09-01,Qatar Airways,57628,57742
+2019-09-01,Royal Brunei Airlines,6569,7020
+2019-09-01,Samoa Airways,1905,1871
+2019-09-01,Scoot Tigerair,28729,28918
+2019-09-01,Sichuan Airlines,3864,4526
+2019-09-01,Silk Air,7485,6811
+2019-09-01,Singapore Airlines,150069,146679
+2019-09-01,Solomon Airlines,1720,1869
+2019-09-01,South African Airways,6301,6654
+2019-09-01,SriLankan Airlines,7776,7307
+2019-09-01,Tasman Cargo Airlines,0,0
+2019-09-01,Thai AirAsia X,2430,2564
+2019-09-01,Thai Airways International,34112,35862
+2019-09-01,Tianjin Airlines,1551,1963
+2019-09-01,United Airlines,18082,18999
+2019-09-01,United Parcel Service,0,0
+2019-09-01,Vietnam Airlines,14769,15846
+2019-09-01,Virgin Australia,114399,119805
+2019-09-01,Xiamen Airlines,8859,9187
+2019-10-01,Air Caledonie International,5962,5901
+2019-10-01,Air Canada,17104,11799
+2019-10-01,Air Chathams,124,138
+2019-10-01,Air China,12003,14687
+2019-10-01,Air India,8121,7491
+2019-10-01,Air Mauritius,2434,2034
+2019-10-01,Air New Zealand,123073,124450
+2019-10-01,Air Niugini,6578,5925
+2019-10-01,Air Vanuatu,7857,6745
+2019-10-01,AirAsia X,50097,39247
+2019-10-01,All Nippon Airways,11060,10267
+2019-10-01,American Airlines,7281,6096
+2019-10-01,Asiana Airlines,8687,8099
+2019-10-01,Batik Air Indonesia,4954,4032
+2019-10-01,Beijing Capital Airlines,4882,3801
+2019-10-01,British Airways,8669,6190
+2019-10-01,Cathay Pacific Airways,90928,74833
+2019-10-01,Cebu Pacific Air,13064,10243
+2019-10-01,China Airlines,23745,22779
+2019-10-01,China Eastern Airlines,38057,35441
+2019-10-01,China Southern Airlines,46531,45043
+2019-10-01,Delta Air Lines,8270,6677
+2019-10-01,Donghai Airlines,309,337
+2019-10-01,Emirates,144069,82236
+2019-10-01,Etihad Airways,54175,33853
+2019-10-01,Eva Air,5372,4514
+2019-10-01,Federal Express Corporation,0,0
+2019-10-01,Fiji Airways,23534,21793
+2019-10-01,Garuda Indonesia,26896,24344
+2019-10-01,Hainan Airlines,10920,9374
+2019-10-01,Hawaiian Airlines,11855,10974
+2019-10-01,Indonesia AirAsia,15342,14150
+2019-10-01,Japan Airlines,10712,10528
+2019-10-01,Jetstar,167420,152287
+2019-10-01,Jetstar Asia,3401,2612
+2019-10-01,Korean Air,13023,11292
+2019-10-01,LATAM Airlines,7845,7436
+2019-10-01,Malaysia Airlines,53012,44081
+2019-10-01,Malindo Air,22338,19192
+2019-10-01,Nauru Airlines,776,779
+2019-10-01,Pacific Air Express,0,0
+2019-10-01,Philippine Airlines,15512,13525
+2019-10-01,Polar Air Cargo,0,0
+2019-10-01,Qantas Airways,322813,299862
+2019-10-01,Qatar Airways,58766,40604
+2019-10-01,Royal Brunei Airlines,7833,5678
+2019-10-01,Samoa Airways,1947,1633
+2019-10-01,Scoot Tigerair,34260,28980
+2019-10-01,Sichuan Airlines,5151,4510
+2019-10-01,Silk Air,8325,7340
+2019-10-01,Singapore Airlines,165042,141769
+2019-10-01,Solomon Airlines,1913,1640
+2019-10-01,South African Airways,6696,4996
+2019-10-01,SriLankan Airlines,8327,6576
+2019-10-01,Tasman Cargo Airlines,0,0
+2019-10-01,Thai AirAsia X,3345,2581
+2019-10-01,Thai Airways International,38420,36259
+2019-10-01,Tianjin Airlines,2034,1239
+2019-10-01,United Airlines,20013,16362
+2019-10-01,United Parcel Service,0,0
+2019-10-01,Vietnam Airlines,16588,13498
+2019-10-01,Virgin Australia,129605,123215
+2019-10-01,Xiamen Airlines,9759,8367
+2019-11-01,Air Caledonie International,5233,5542
+2019-11-01,Air Canada,14694,14857
+2019-11-01,Air Chathams,166,137
+2019-11-01,Air China,16089,20320
+2019-11-01,Air India,7051,7790
+2019-11-01,Air Mauritius,2028,1786
+2019-11-01,Air New Zealand,120886,124781
+2019-11-01,Air Niugini,5917,6231
+2019-11-01,Air Vanuatu,5930,5491
+2019-11-01,AirAsia X,37283,38393
+2019-11-01,All Nippon Airways,10294,10175
+2019-11-01,American Airlines,6976,6145
+2019-11-01,Asiana Airlines,11033,10029
+2019-11-01,Batik Air Indonesia,3163,2449
+2019-11-01,Beijing Capital Airlines,3734,4342
+2019-11-01,British Airways,8248,7620
+2019-11-01,Cathay Pacific Airways,71012,74429
+2019-11-01,Cebu Pacific Air,9493,9832
+2019-11-01,China Airlines,19552,23187
+2019-11-01,China Eastern Airlines,37204,41974
+2019-11-01,China Southern Airlines,52067,53318
+2019-11-01,Citilink Indonesia,1043,1248
+2019-11-01,Delta Air Lines,8174,7134
+2019-11-01,Donghai Airlines,153,176
+2019-11-01,Emirates,101890,97339
+2019-11-01,Etihad Airways,37582,38975
+2019-11-01,Eva Air,4054,4562
+2019-11-01,Federal Express Corporation,0,0
+2019-11-01,Fiji Airways,22180,21109
+2019-11-01,Garuda Indonesia,21756,21507
+2019-11-01,Hainan Airlines,6033,8537
+2019-11-01,Hawaiian Airlines,8335,8716
+2019-11-01,Indonesia AirAsia,13880,12864
+2019-11-01,Japan Airlines,10782,11081
+2019-11-01,Jetstar,149024,148408
+2019-11-01,Jetstar Asia,2874,2986
+2019-11-01,Korean Air,15114,14018
+2019-11-01,LATAM Airlines,8665,8360
+2019-11-01,Malaysia Airlines,47545,47438
+2019-11-01,Malindo Air,18186,17751
+2019-11-01,Nauru Airlines,557,610
+2019-11-01,Pacific Air Express,0,0
+2019-11-01,Philippine Airlines,13379,15107
+2019-11-01,Polar Air Cargo,0,0
+2019-11-01,Qantas Airways,303377,298822
+2019-11-01,Qatar Airways,46588,46247
+2019-11-01,Royal Brunei Airlines,4718,5418
+2019-11-01,Samoa Airways,1688,1587
+2019-11-01,Scoot Tigerair,34309,35686
+2019-11-01,Sichuan Airlines,4216,5085
+2019-11-01,Silk Air,6348,6792
+2019-11-01,Singapore Airlines,145818,146466
+2019-11-01,Solomon Airlines,1865,1693
+2019-11-01,South African Airways,4431,4712
+2019-11-01,SriLankan Airlines,7475,7114
+2019-11-01,Tasman Cargo Airlines,0,0
+2019-11-01,Thai AirAsia X,2723,2780
+2019-11-01,Thai Airways International,35357,40097
+2019-11-01,Tianjin Airlines,3032,3859
+2019-11-01,United Airlines,22971,21004
+2019-11-01,United Parcel Service,0,0
+2019-11-01,Vietnam Airlines,13996,14850
+2019-11-01,Virgin Australia,115184,116001
+2019-11-01,Xiamen Airlines,9071,9041
+2019-12-01,Air Caledonie International,6944,5827
+2019-12-01,Air Canada,16792,20523
+2019-12-01,Air Chathams,169,144
+2019-12-01,Air China,18332,23232
+2019-12-01,Air India,7794,8536
+2019-12-01,Air Mauritius,2870,3067
+2019-12-01,Air New Zealand,130200,137857
+2019-12-01,Air Niugini,7333,7161
+2019-12-01,Air Vanuatu,5378,7529
+2019-12-01,AirAsia X,46737,67575
+2019-12-01,All Nippon Airways,9365,11554
+2019-12-01,American Airlines,7480,7592
+2019-12-01,Asiana Airlines,10962,13820
+2019-12-01,Batik Air Indonesia,2327,4140
+2019-12-01,Beijing Capital Airlines,4306,5791
+2019-12-01,British Airways,7489,8603
+2019-12-01,Cathay Pacific Airways,80575,100445
+2019-12-01,Cebu Pacific Air,11023,13350
+2019-12-01,China Airlines,22181,32961
+2019-12-01,China Eastern Airlines,39130,50172
+2019-12-01,China Southern Airlines,66008,74824
+2019-12-01,Citilink Indonesia,2142,4226
+2019-12-01,Delta Air Lines,8208,7613
+2019-12-01,Donghai Airlines,190,458
+2019-12-01,Emirates,133280,150758
+2019-12-01,Etihad Airways,42759,50568
+2019-12-01,Eva Air,7407,9981
+2019-12-01,Federal Express Corporation,0,0
+2019-12-01,Fiji Airways,22285,26091
+2019-12-01,Garuda Indonesia,22271,30714
+2019-12-01,Hainan Airlines,6257,10791
+2019-12-01,Hawaiian Airlines,9060,11076
+2019-12-01,Indonesia AirAsia,12272,13655
+2019-12-01,Japan Airlines,9414,11635
+2019-12-01,Jetstar,157645,173411
+2019-12-01,Jetstar Asia,2372,4543
+2019-12-01,Korean Air,16894,18520
+2019-12-01,LATAM Airlines,8214,8214
+2019-12-01,Malaysia Airlines,45079,60666
+2019-12-01,Malindo Air,13943,21755
+2019-12-01,Nauru Airlines,634,617
+2019-12-01,Pacific Air Express,0,0
+2019-12-01,Philippine Airlines,12217,20595
+2019-12-01,Polar Air Cargo,0,0
+2019-12-01,Qantas Airways,318509,358093
+2019-12-01,Qatar Airways,53521,59850
+2019-12-01,Royal Brunei Airlines,6494,8725
+2019-12-01,Samoa Airways,1831,2231
+2019-12-01,Scoot Tigerair,41460,55202
+2019-12-01,Sichuan Airlines,4121,7048
+2019-12-01,Silk Air,6038,9621
+2019-12-01,Singapore Airlines,143594,172933
+2019-12-01,Solomon Airlines,1755,1830
+2019-12-01,South African Airways,5809,7193
+2019-12-01,SriLankan Airlines,7667,8701
+2019-12-01,Tasman Cargo Airlines,0,0
+2019-12-01,Thai AirAsia X,2932,4096
+2019-12-01,Thai Airways International,35859,43757
+2019-12-01,Tianjin Airlines,3596,5183
+2019-12-01,United Airlines,27205,31293
+2019-12-01,United Parcel Service,0,0
+2019-12-01,Vietnam Airlines,16236,18911
+2019-12-01,Virgin Australia,124346,145963
+2019-12-01,Xiamen Airlines,9427,11512
